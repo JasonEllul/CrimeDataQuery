@@ -1,1 +1,1 @@
-Please refer to the User Manual for operating instructions. 
+Please refer to the User Operating Manual (TeamBellevilleScriptUserOperatingManual.pdf) for operating instructions. 
